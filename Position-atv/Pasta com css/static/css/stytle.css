@@ -1,0 +1,223 @@
+/* Atividade 1 */
+
+.atv1 div {
+    width:108.1vh;
+    height:80vh;
+}
+
+.div1 {
+    background-color: red;
+    position: absolute;
+    top: 0vh;
+    left: 0vh;
+}
+
+.div2 {
+    background-color: blue;
+    position: absolute;
+    top:80vh ;
+    right: 0vh;
+}
+
+/* Atividade 2 */
+
+.atv2 {
+    height: 500vh;
+}
+
+.div3 {
+    background-color: purple;
+    width:218.4vh;
+    height:10vh;
+    position: absolute;
+    top: 0vh;
+    left: 0vh;
+}
+
+.div4 {
+    background-color: green;
+    width: 30vh;
+    position: relative;
+    height: 5vh;
+    top: 1vh;
+    margin:auto;
+    display: block;
+}
+
+.div5 {
+    background-color: black;
+    position: fixed;
+    right: 0vh;
+    border-radius: 50%;
+    height: 85px;
+    width: 85px;
+    bottom: 0vh;
+}
+
+/* Atividade 3 */
+
+.div6 {
+    background-color: tomato;
+    width: 30vh;
+    height: 90vh;
+}
+
+.div7 {
+    background-color: violet;
+    position: absolute;
+    width: 20vh;
+    height: 5vh;
+    top: 5vh;
+    left: 6.5vh;
+}
+
+.div8 {
+    background-color: yellowgreen;
+    position: absolute;
+    width: 20vh;
+    height: 5vh;
+    bottom: 13vh;
+    left: 6.5vh;
+}
+
+.div9 {
+    background-color: aqua;
+    position: absolute;
+    right: 0vh;
+    top: 0vh;
+    width: 60vh;
+    height: 15vh;
+}
+
+.div10 {
+    background-color: mediumblue;
+    position: absolute;
+    right: 0vh;
+    top: 10vh;
+    width: 30vh;
+    height: 5vh;
+}
+
+.div11 {
+    background-color: orange;
+    position: absolute;
+    right: 0vh;
+    bottom: 0vh;
+    width: 60vh;
+    height: 40vh;
+}
+
+.div12 {
+    background-color: rebeccapurple;
+    position: absolute;
+    right: 25vh;
+    bottom: 30vh;
+    width: 35vh;
+    height: 10vh;
+}
+
+/* Atividade 4 */
+
+.div13 {
+    background-color: aqua;
+    position: absolute;
+    width: 7vh;
+    height: 90vh;
+    left: 15vh;
+    bottom: 0vh;
+}
+
+.div14 {
+    background-color: tomato;
+    width: 7vh;
+    position: absolute;
+    left: 30vh;
+    height: 115vh;
+    rotate: 60deg;
+    bottom: 20vh;
+}
+.div15 {
+    background-color: violet;
+    position: absolute;
+    bottom: 0vh;
+    right: 5vh;
+    width: 7vh;
+    height: 90vh;
+}
+
+.div16 {
+    background-color: yellowgreen;
+    position: absolute;
+    bottom: 5vh;
+    right: 0vh;
+    width: 150vh;
+    height: 7vh;
+}
+
+.div17 {
+    background-color: mediumblue;
+    position: absolute;
+    top: 25vh;
+    left: 72vh;
+    width: 70vh;
+    height: 50vh;
+}
+
+.div18 {
+    background-color: orange;
+    position: absolute;
+    top: 30vh;
+    left: 77vh;
+    width: 60vh;
+    height: 40vh;
+}
+
+.div19 {
+    background-color: rebeccapurple;
+    position: absolute;
+    top: 42vh;
+    left: 65vh;
+    width: 15vh;
+    height: 15vh;
+    border-radius: 50%;
+}
+
+.div20 {
+    background-color: black;
+    position: absolute;
+    top: 42vh;
+    right: 70vh;
+    width: 15vh;
+    height: 15vh;
+    border-radius: 50%;
+}
+
+.div21 {
+    background-color: purple;
+    position: absolute;
+    top: 42vh;
+    right: 104vh;
+    width: 15vh;
+    height: 15vh;
+    border-radius: 50%;
+}
+
+.div22 {
+    background-color: green;
+    position: absolute;
+    top: 14vh;
+    right: 104vh;
+    width: 15vh;
+    height: 15vh;
+    border-radius: 50%;
+}
+
+.div23 {
+    background-color: red;
+    position: absolute;
+    bottom: 14vh;
+    right: 104vh;
+    width: 15vh;
+    height: 15vh;
+    border-radius: 50%;
+}
